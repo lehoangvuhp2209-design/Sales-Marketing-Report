@@ -17,7 +17,14 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 -	Created pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 6.	Dashboard
+
 ![Screenshot_(495)](https://github.com/lehoangvuhp2209-design/Sales-Marketing-Report/blob/main/Sales%20Overview.png)
+
+![Screenshot_(495)](https://github.com/lehoangvuhp2209-design/Sales-Marketing-Report/blob/main/Market%20Share.png)
+
+![Screenshot_(495)](https://github.com/lehoangvuhp2209-design/Sales-Marketing-Report/blob/main/Product%20Analysis.png)
+
+![Screenshot_(495)](https://github.com/lehoangvuhp2209-design/Sales-Marketing-Report/blob/main/Product%20Analysis.png)
   
 7.	Project Insight
 -	Market Performance: VanArsdel consistently held the largest share of total revenue compared to competitors, capturing over 30% unit market share between 2010–2014, with the strongest presence in the Central region.
