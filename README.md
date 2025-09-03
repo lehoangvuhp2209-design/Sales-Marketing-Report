@@ -4,7 +4,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 2.	Short Description
 The Sales and Marketing Analysis Report for VanArsdel (2010–2014) provides a comprehensive overview of business performance, highlighting key trends in revenue, product sales, customer segments, and marketing effectiveness. The report identifies growth drivers, regional performance variations, and insights to support data-driven strategic decisions
 3.	Data Source
--<a href="https://github.com/microsoft/powerbi-desktop-samples/blob/main/new-power-bi-service-samples/Competitive%20Marketing%20Analysis.pbix")Dataset</a>
+- <a href="https://github.com/microsoft/powerbi-desktop-samples/blob/main/new-power-bi-service-samples/Competitive%20Marketing%20Analysis.pbix">Dataset</a>
 4.	Tech Stack: The dashboard was build using the following tools and technologies
 -	Power BI Desktop: Main data visualization platform used for report creation
 -	DAX: Used for calculated measures, dynamic visuals, and conditional logic
